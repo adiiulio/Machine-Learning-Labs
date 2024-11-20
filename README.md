@@ -9,4 +9,5 @@ and preprocessing to Clustering, Classification, Regression and Association Rule
 - matplotlib
 - scikitlearn
 - numpy
-
+- pandas
+- seaborn
