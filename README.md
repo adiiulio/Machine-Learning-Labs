@@ -5,8 +5,8 @@ This repository contains the laboratories done as exercise for the Machine Learn
 and preprocessing to Clustering, Classification, Regression and Association Rules tasks. 
 
 ## Dependencies
-. python 3.8
-. matplotlib
-. scikitlearn
-. numpy
--
+- python 3.8
+- matplotlib
+- scikitlearn
+- numpy
+
